@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+}
+.wrapper {
+    margin: 5px;
+    background-color: violet;
+    border: 25px solid black;
+}
+
+
